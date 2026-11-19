@@ -1,0 +1,10 @@
+{
+  "versionCode": 55,
+  "versionName": "1.54",
+  "packageName": "com.movelyx.app",
+  "apkUrl": "https://github.com/chucheto30-max/movelyx-updates/releases/download/v1.54/MOVELYX-1.54-completa.apk",
+  "sha256": "58d975dea632d6f412882f4366b0a0f03c3ed6853059e60cf062e7956b7e4b2b",
+  "bytes": 24184602,
+  "minSdk": 24,
+  "notes": ""
+}
