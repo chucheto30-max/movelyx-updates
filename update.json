@@ -1,10 +1,14 @@
 {
-  "versionCode": 56,
-  "versionName": "1.55",
+  "versionCode": 57,
+  "versionName": "1.56",
   "packageName": "com.movelyx.app",
-  "apkUrl": "https://github.com/chucheto30-max/movelyx-updates/releases/download/v1.55/MOVELYX-1.55-completa.apk",
-  "sha256": "bef62d6c8a7766be61deb63f829c75ca4446ecf265096bcad2bd09583e9fbd65",
-  "bytes": 24371930,
+  "apkUrl": "https://github.com/chucheto30-max/movelyx-updates/releases/download/v1.56/MOVELYX-1.56-actualizacion.apk",
+  "sha256": "85186ce81e9e52050cc3f8709deba69cfae625fc8774f0a39b32872225914b36",
+  "bytes": 24371698,
   "minSdk": 24,
-  "notes": "Español\nMOVELYX 1.55 — ampliación del catálogo y actualización de la biblioteca.\n\n• Se añaden 18 películas y 9 series al catálogo en inglés, y 7 películas y 7 series al catálogo en español latino. Hay títulos compartidos entre ambos idiomas: son 29 títulos distintos con nuevas opciones de idioma.\n• Las páginas guardadas de Películas y Series se renuevan al cambiar la biblioteca incluida, para que las incorporaciones aparezcan sin esperar a que venza la caché.\n• Se excluyen de las incorporaciones las variantes que fallaron las comprobaciones de audio, reproducción, integridad del contenido o grabación de cámara.\n• Se conserva el paquete y la firma de MOVELYX para instalar encima de la versión anterior. No desinstales la app si deseas conservar los datos locales.\n\nSe verificaron los pósteres de las incorporaciones y se probaron muestras de películas y episodios en ambos idiomas. Las pruebas no garantizan la disponibilidad permanente de todos los enlaces ni de todas las temporadas. No se añadieron proveedores nuevos ni FOX Burlington; TV en vivo conserva su configuración.\n\nEnglish\nMOVELYX 1.55 — catalog expansion and bundled library refresh.\n\n• Adds 18 movies and 9 series to the English catalog, plus 7 movies and 7 series to the Latin American Spanish catalog. Some titles are shared across languages: 29 distinct titles gain new language availability.\n• Saved Movies and Series pages refresh when the bundled library changes, so additions appear without waiting for the old cache to expire.\n• Newly considered editions that failed audio, playback, full-content or camera-recording checks are excluded.\n• Keeps the MOVELYX package and signing identity for an in-place update. Do not uninstall if you want to keep local data.\n\nArtwork for the additions was checked, and sample movies and episodes were tested in both languages. This does not guarantee every link or every season will remain available. No new providers or FOX Burlington were added; Live TV retains its configuration.\n"
+  "notes": "",
+  "notesByLanguage": {
+    "en": "MOVELYX 1.56 — update for already configured devices.\n\n• Update notes appear only in the language selected in MOVELYX and follow changes between English and Spanish.\n• This download reuses the connection saved by a previous installation. The public installer contains no catalog credential.\n• Install over the existing version without uninstalling or clearing app data to keep the connection, profiles, favorites and watch history.\n\nIMPORTANT: a fresh installation needs a content source configuration. This public download is intended to update devices that already have MOVELYX configured. Bundled catalogs and Live TV are retained.",
+    "es": "MOVELYX 1.56 — actualización para dispositivos ya configurados.\n\n• Las notas de actualización aparecen solo en el idioma elegido en MOVELYX y cambian al seleccionar inglés o español.\n• Esta descarga reutiliza la conexión guardada por una instalación anterior. El instalador público no contiene la credencial del catálogo.\n• Instala encima de la versión existente, sin desinstalar ni borrar los datos, para conservar la conexión, los perfiles, los favoritos y el historial.\n\nIMPORTANTE: una instalación nueva necesita configurar una fuente de contenido. Esta descarga pública está destinada a actualizar dispositivos que ya tienen MOVELYX configurado. Los catálogos incluidos y la TV en vivo se conservan."
+  }
 }
