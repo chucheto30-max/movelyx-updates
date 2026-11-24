@@ -1,14 +1,14 @@
 {
-  "versionCode": 57,
-  "versionName": "1.56",
+  "versionCode": 58,
+  "versionName": "1.57",
   "packageName": "com.movelyx.app",
-  "apkUrl": "https://github.com/chucheto30-max/movelyx-updates/releases/download/v1.56/MOVELYX-1.56-actualizacion.apk",
-  "sha256": "85186ce81e9e52050cc3f8709deba69cfae625fc8774f0a39b32872225914b36",
-  "bytes": 24371698,
+  "apkUrl": "https://github.com/chucheto30-max/movelyx-updates/releases/download/v1.57/MOVELYX-1.57-actualizacion.apk",
+  "sha256": "9691907bc5c267166d6c9a60d6bc8e81f7003c7eadc010e45554b1b830b1fbb6",
+  "bytes": 25072289,
   "minSdk": 24,
   "notes": "",
   "notesByLanguage": {
-    "en": "MOVELYX 1.56 — update for already configured devices.\n\n• Update notes appear only in the language selected in MOVELYX and follow changes between English and Spanish.\n• This download reuses the connection saved by a previous installation. The public installer contains no catalog credential.\n• Install over the existing version without uninstalling or clearing app data to keep the connection, profiles, favorites and watch history.\n\nIMPORTANT: a fresh installation needs a content source configuration. This public download is intended to update devices that already have MOVELYX configured. Bundled catalogs and Live TV are retained.",
-    "es": "MOVELYX 1.56 — actualización para dispositivos ya configurados.\n\n• Las notas de actualización aparecen solo en el idioma elegido en MOVELYX y cambian al seleccionar inglés o español.\n• Esta descarga reutiliza la conexión guardada por una instalación anterior. El instalador público no contiene la credencial del catálogo.\n• Instala encima de la versión existente, sin desinstalar ni borrar los datos, para conservar la conexión, los perfiles, los favoritos y el historial.\n\nIMPORTANTE: una instalación nueva necesita configurar una fuente de contenido. Esta descarga pública está destinada a actualizar dispositivos que ya tienen MOVELYX configurado. Los catálogos incluidos y la TV en vivo se conservan."
+    "en": "MOVELYX 1.57 — expanded catalog.\n\n• 180 new movie cards and additional backups for existing movies and episodes.\n• Swamp People: 82 reviewed English episodes across seasons 6, 11, 12, 15 and 16.\n• Reviewed episode backups for Ben 10: Alien Force, Samurai Jack and Chespirito: Sin querer queriendo (2025), according to available audio.\n• Local browsing and original language separation are retained.\n\nInstall over your configured MOVELYX without uninstalling or clearing its data. This public update reuses the saved connection; a new device needs a content-source configuration. Availability can change.",
+    "es": "MOVELYX 1.57 — catálogo ampliado.\n\n• 180 fichas nuevas de películas y más respaldos para películas y episodios existentes.\n• Swamp People: 82 episodios revisados en inglés de las temporadas 6, 11, 12, 15 y 16.\n• Respaldos revisados para Ben 10: Alien Force, Samurai Jack y Chespirito: Sin querer queriendo (2025), según el audio disponible.\n• Se conservan la navegación local y la separación de idiomas.\n\nInstala encima de tu MOVELYX configurado, sin desinstalar ni borrar sus datos. Esta actualización pública reutiliza la conexión guardada; un dispositivo nuevo necesita configurar una fuente de contenido. La disponibilidad puede cambiar."
   }
 }
