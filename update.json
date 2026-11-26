@@ -1,14 +1,14 @@
 {
-  "versionCode": 58,
-  "versionName": "1.57",
+  "versionCode": 59,
+  "versionName": "1.58",
   "packageName": "com.movelyx.app",
-  "apkUrl": "https://github.com/chucheto30-max/movelyx-updates/releases/download/v1.57/MOVELYX-1.57-actualizacion.apk",
-  "sha256": "9691907bc5c267166d6c9a60d6bc8e81f7003c7eadc010e45554b1b830b1fbb6",
-  "bytes": 25072289,
+  "apkUrl": "https://github.com/chucheto30-max/movelyx-updates/releases/download/v1.58/MOVELYX-1.58-actualizacion.apk",
+  "sha256": "8b41f51d5a1508939c049e54b6e9a8b6252df8657f23f04df77ee8e292d0a93d",
+  "bytes": 25252509,
   "minSdk": 24,
   "notes": "",
   "notesByLanguage": {
-    "en": "MOVELYX 1.57 — expanded catalog.\n\n• 180 new movie cards and additional backups for existing movies and episodes.\n• Swamp People: 82 reviewed English episodes across seasons 6, 11, 12, 15 and 16.\n• Reviewed episode backups for Ben 10: Alien Force, Samurai Jack and Chespirito: Sin querer queriendo (2025), according to available audio.\n• Local browsing and original language separation are retained.\n\nInstall over your configured MOVELYX without uninstalling or clearing its data. This public update reuses the saved connection; a new device needs a content-source configuration. Availability can change.",
-    "es": "MOVELYX 1.57 — catálogo ampliado.\n\n• 180 fichas nuevas de películas y más respaldos para películas y episodios existentes.\n• Swamp People: 82 episodios revisados en inglés de las temporadas 6, 11, 12, 15 y 16.\n• Respaldos revisados para Ben 10: Alien Force, Samurai Jack y Chespirito: Sin querer queriendo (2025), según el audio disponible.\n• Se conservan la navegación local y la separación de idiomas.\n\nInstala encima de tu MOVELYX configurado, sin desinstalar ni borrar sus datos. Esta actualización pública reutiliza la conexión guardada; un dispositivo nuevo necesita configurar una fuente de contenido. La disponibilidad puede cambiar."
+    "en": "MOVELYX 1.58 — more reviewed movies and series.\n\n• 13 reviewed movie additions or playback routes: 7 in English and 6 Mexican films in Spanish.\n• More classic English series, Mexican comedies and telenovelas, including Una familia de diez, María de todos los Ángeles, 40 y 20, XHDRBZ and Derbez en cuando.\n• Vecinos: 333 reviewed episodes; Swamp People: 263 available episodes, retaining the earlier original-source coverage. These series remain incomplete.\n• Me caigo de risa: 16 reviewed episodes from season 3 only.\n• Corrected published video-link parsing, language separation and local season browsing. Browsing does not scan video providers at startup.\n\nInstall over your configured MOVELYX without uninstalling or clearing its data. The public update reuses the saved connection; a new device needs source configuration or your private complete installer. Availability can change.",
+    "es": "MOVELYX 1.58 — más películas y series revisadas.\n\n• 13 incorporaciones o rutas revisadas de películas: 7 en inglés y 6 películas mexicanas en español.\n• Más series clásicas en inglés, comedias mexicanas y novelas, incluyendo Una familia de diez, María de todos los Ángeles, 40 y 20, XHDRBZ y Derbez en cuando.\n• Vecinos: 333 episodios revisados; Swamp People: 263 episodios disponibles, conservando la cobertura previa de la fuente original. Estas series siguen incompletas.\n• Me caigo de risa: únicamente 16 episodios revisados de la temporada 3.\n• Correcciones en los enlaces de video, la separación de idiomas y la consulta local de temporadas. La navegación no revisa proveedores de video al arrancar.\n\nInstala encima de tu MOVELYX configurado, sin desinstalar ni borrar sus datos. La actualización pública reutiliza la conexión guardada; un dispositivo nuevo necesita configurar su fuente o usar tu instalador completo privado. La disponibilidad puede cambiar."
   }
 }
